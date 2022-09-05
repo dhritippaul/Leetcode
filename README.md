@@ -1,2 +1,2 @@
 # Leetcode
-My solution submitted @Leetcode!
+All my solutions submitted @Leetcode!
